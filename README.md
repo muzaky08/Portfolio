@@ -18,14 +18,6 @@ This project has been extended into a full personal portfolio with a lightweight
 - REST API read-only: `/api/portfolio/{activities|biodata|educations|projects|skills}`.
 - Form kontak langsung mengirim email notifikasi (gunakan alamat di pengaturan contact email).
 
-### Default Admin Access
-
-- URL: `http://localhost:8080/admin/login` (or `{your-domain}/admin/login`)
-- Username/Email: `admin` or `admin@example.com`
-- Password: `Admin123!`
-
-Change these credentials immediately after the first login via the database.
-
 ### Quick Start
 
 1. Ensure PHP 8.1+, Composer, and MySQL/MariaDB are installed and running.
